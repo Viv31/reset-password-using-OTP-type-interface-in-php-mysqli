@@ -1,0 +1,5 @@
+========= Reset Password Using OTP Type system ===================
+1) Clone Project 
+2) Create Database reset-password-using-OTP-type-interface and import SQL file.
+3) For Testing insert mobile number 1234567890 and password 1234.
+4) After clicking forget password you will see a form insert mobile number there and  
